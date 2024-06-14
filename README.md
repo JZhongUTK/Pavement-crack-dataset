@@ -12,7 +12,7 @@ The CrackTrans was collected via smartphone including shadow, wet, night, and gr
 # Citation:
 If you use our dataset in your research, the citation can be placed as:
 
-1. "Jingtao Zhong, Yuetan Ma, Miaomiao Zhang, Rui Xiao, Guantao Cheng, Baoshan Huang. A Pavement Crack Translator for Data Augmentation and Pixel-Level Detection Based on Weakly Supervised Learning. IEEE Transactions on Intelligent Transportation Systems (Under Review)."
+1. "Jingtao Zhong, Yuetan Ma, Miaomiao Zhang, Rui Xiao, Guantao Cheng, Baoshan Huang. A Pavement Crack Translator for Data Augmentation and Pixel-Level Detection Based on Weakly Supervised Learning. IEEE Transactions on Intelligent Transportation Systems, https://ieeexplore.ieee.org/document/10557475."
 
 2. Jingtao Zhong, Junqing Zhu, Ju Huyan, Tao Ma, Weiguang Zhang, Multi-scale feature fusion network for pixel-level pavement distress detection, Automation in Construction, Vol.141, 2022, https://doi.org/10.1016/j.autcon.2022.104436.
 
